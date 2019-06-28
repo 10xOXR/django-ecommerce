@@ -4,5 +4,5 @@ __pycache__/
 env.py
 .env
 .vscode
-/static
+static/
 media/
