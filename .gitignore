@@ -1,4 +1,8 @@
-*sqlite3
-*.pyc
-*__pycache__/
+*.sqlite3
+*.py[cod]
+__pycache__/
 env.py
+.env
+.vscode
+/static
+media/
